@@ -1,3 +1,3 @@
 # Execute this project using npx wdio wdio.conf.js
-# visual regrssion baseline impage captured on Windows and chrome 83 version
+# visual regrssion baseline image captured on Windows using chrome version 83
  
